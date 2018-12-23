@@ -1,12 +1,12 @@
 header {
-background: url(/images/space.jpg);
+background: url(space.jpg);
 background-size: cover;
-background-position: relative center;
-min-height: 950px;
+background-position: center;
+min-height: 1000px;
 }
-#myLogo {
+/* #myLogo {
     position: absolute;
-}
+} */
 
 .section{
     padding-top: 4vw;

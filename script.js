@@ -1,6 +1,6 @@
 $(document).ready(function(){
     $('.sidenav').sidenav();
-    $('.materialboxed').materialbox();
+    // $('.materialboxed').materialbox();
     $('.parallax').parallax();
     $('.tabs').tabs();
     $('.tooltipped').tooltip();
