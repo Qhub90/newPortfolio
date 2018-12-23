@@ -1,0 +1,52 @@
+header {
+background: url(/images/space.jpg);
+background-size: cover;
+background-position: relative center;
+min-height: 950px;
+}
+#myLogo {
+    position: absolute;
+}
+
+.section{
+    padding-top: 4vw;
+    padding-bottom: 4vw; 
+}
+.tabs .indicator{
+    background-color: #1a237e;
+}
+
+.tabs .tab a:focus, .tabs .tab a:focus.active{
+    background: transparent;
+}
+
+@media screen and (max-width: 670px){
+    header{
+        min-height: 500px;
+    }
+}
+
+.nav-wrapper {
+    background-color: transparent;
+}
+
+#about {
+    font-size: 1.5rem
+}
+
+/* #realEstate{
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+    border-bottom: 3px solid black;
+}
+
+#webDeveloper{
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+    border-bottom: 3px solid black;
+} */
+
+/* .page-footer {
+    background-color: rgba(179, 221, 235, 1); 
+    text
+} */
